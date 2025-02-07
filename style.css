@@ -1,16 +1,26 @@
 html,body {
-background-color:rgb(236, 172, 213)
-color:rgb(278, 172, 213)
+    background-color:rgb(202, 143, 180);
+    color :rgb(278, 172, 213)
 }
 
 h1 {
 font-size: 50px;
-color:rgb(178, 233, 215)
+color:rgb(82, 138, 119)
 
 }
 
 .name {
-color: rgb(138, 110, 165)
-background-color:rgb(150, 110, 165)
-border: 8px groove cornflowerblue;
+color: rgb(82, 63, 100);
+background-color:blue;
+border: 2px solid black;
+}
+
+h2.name {
+    /* color:aqua;
+    background-color:crimson; */
+    border: none;
+}
+
+h3 {
+    font-size: 100px;
 }
