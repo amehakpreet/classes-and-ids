@@ -8,3 +8,9 @@ font-size: 50px;
 color:rgb(178, 233, 215)
 
 }
+
+.name {
+color: rgb(138, 110, 165)
+background-color:rgb(150, 110, 165)
+border: 8px groove cornflowerblue;
+}
